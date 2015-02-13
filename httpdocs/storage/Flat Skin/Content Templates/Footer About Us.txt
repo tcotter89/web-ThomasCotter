@@ -1,0 +1,7 @@
+<div class="footer_icon">
+  <p>Lorem ipsum ex vix illud nonummy, novum tation et his. At vix scriptaset patrioque scribenturat pro fugit erts verterem molestiae, sed et vivendo ali illu. </p>
+  <div class="pe-spacer size10"></div>
+  <span class="glyphicon glyphicon-map-marker"></span>&nbsp;&nbsp;100 Mainstreet Blvd. Miami<br />
+  <span class="glyphicon glyphicon-phone"></span>&nbsp;&nbsp;(305) 555-4446<br />
+  <span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;@bestdnnskins.com<br />
+</div>

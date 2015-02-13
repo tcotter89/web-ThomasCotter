@@ -1,0 +1,8 @@
+<div class="row-fluid">
+  <div class="demo_bottom_style clearafter">
+    <div class="demo_bottom_left span9">
+      <p>Our vision is simple. We want create websites and applications with both high quality design and easy-to-access content. The finished product will be totally unique and represent awesomeness.</p>
+    </div>
+    <div class="demo_bottom_right span3"> <span><a href="#">PURCHASE SKIN</a></span> </div>
+  </div>
+</div>

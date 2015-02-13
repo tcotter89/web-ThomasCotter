@@ -1,0 +1,11 @@
+<ul id="slider" class="unoslider">
+    <li>
+      <img alt="" src="...jpg" />
+    </li>
+    <li>
+      <img alt="" src="...jpg" />
+    </li>
+    <li>
+      <img alt="" src="...jpg" />
+    </li>
+</ul>

@@ -1,0 +1,12 @@
+<div class="flexslider">
+<ul class="slides">
+    <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner3_01.jpg" />
+    </li>
+    <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner3_02.jpg" />
+    </li>
+    <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner3_03.jpg" />
+    </li>
+    <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner3_04.jpg" />
+    </li>
+</ul>
+</div>

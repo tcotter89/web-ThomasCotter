@@ -1,0 +1,142 @@
+﻿@model BootcampCapstone.User
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+<div class="container centered">
+    <div class="form-generic">
+        <div id="buttons">
+            <input type="button" value="Edit" class="btn btn-large btn-primary right-spacing-small" onclick="@("location.href='" + Url.Action("Edit", "User", new { id = Model.userID }) + "'")" />
+            <input type="button" value="Delete" class="btn btn-large btn-primary" onclick="@("location.href='" + Url.Action("Delete", "User", new { id = Model.userID }) + "'")" />
+        </div>
+        <h2 class="form-generic-heading">Your Account Info</h2>
+        <fieldset class="form-generic-column">
+            <div class="form-line">
+                @Html.DisplayNameFor(model => model.username)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.username)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.password)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.password)
+            </div>
+
+            <div class="form-line">
+
+                 @Html.DisplayNameFor(model => model.firstName)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.firstName)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.lastName)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.lastName)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.address1)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.address1)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.address2)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.address2)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.city)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.city)
+            </div>
+            <div class="form-line">
+                <div class="form-line-double-left">
+                     @Html.DisplayNameFor(model => model.state)
+                    <div class="display">
+                        @Html.DisplayFor(model => model.state)
+                    </div>
+                </div>
+                <div class="form-line-double-right">
+                    @Html.DisplayNameFor(model => model.zip)
+                    <div class="display">
+                        @Html.DisplayFor(model => model.zip)
+                    </div>
+                </div>
+            </div>
+        </fieldset> <!-- form-generic-column -->
+        <fieldset class ="form-generic-column">
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.phoneHome)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.phoneHome)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.phoneCell)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.phoneCell)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.phoneOffice)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.phoneOffice)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.companyName)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.companyName)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.branchLocation)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.branchLocation)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.Food.food1)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.Food.food1)
+            </div>
+
+            <div class="form-line">
+                 @Html.DisplayNameFor(model => model.additionalInfo)
+            </div>
+            <div class="form-line display">
+                @Html.DisplayFor(model => model.additionalInfo)
+            </div>
+        </fieldset> <!-- form-generic-column -->
+    </div> <!-- /form-generic -->
+</div> <!-- container -->
+}
+<div class="hidden">
+    @Html.ActionLink("Edit", "Edit", new { id = Model.userID }) |
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

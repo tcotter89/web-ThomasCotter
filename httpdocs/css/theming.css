@@ -1,0 +1,47 @@
+#main {
+    background: url(../images/bg_grid_01.png) #fff fixed;
+    color: #555;
+}
+
+#menu-bar {
+	background-color:#222222;
+}
+#menu-home a,
+#menu-home a:visited {
+	font-size:20px;
+	font-weight:bold;
+	color:salmon;
+	text-decoration:none;
+}
+#menu-home a:hover {
+	color:lightsalmon;
+	text-decoration:none;
+}
+#menu-item a,
+#menu-item a:visited {
+	color:lightgray;
+	text-decoration:none;
+}
+#menu-item a:hover {
+	color:white;
+	text-decoration:none;
+}
+#container1 {
+	background-color:lightgray;
+}
+#container2 {
+	background-color:salmon;
+}
+#container-compact {
+	background-color:lightgray;
+}
+
+.btn-feature .btn-feature-content{ 
+	background:rgba(133,133,133,.8);
+}
+.btn-feature .btn-feature-content h3{ 
+	color:#fff;
+}
+.btn-feature .btn-feature-content p{
+	color:#fff;
+}

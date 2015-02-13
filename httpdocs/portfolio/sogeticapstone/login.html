@@ -1,0 +1,76 @@
+﻿<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+	<link rel="stylesheet" type="text/css" href="../../css/master.css">
+    <link href="Assets/css/site.css" rel="stylesheet"/>
+    <script src="Scripts/modernizr-2.6.2.js"></script>
+    <link href="Assets/css/bootstrap.css" rel="stylesheet">
+    <link href="Assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="Assets/css/styles.css" rel="stylesheet">
+    <link href="Assets/css/theming.css" rel="stylesheet">
+</head>
+<body id="main">
+	<div id="menu-bar">
+		<div id="menu-home"><a href="../..">THOMAS COTTER</a></div>
+		<div id="menu-item"><a href="../../aboutme.html">About Me</a></div>
+		<div id="menu-item"><a href="../../portfolio.html">Portfolio</a></div>
+        <div id="menu-item"><a href="../../css.html">CSS</a></div>
+		<div id="menu-item"><a href="../../services.html">Services</a></div>
+	</div>
+    <div id="wrap">
+        <header>
+            <div id="head"></div> <!-- The Sogeti Banner (check theming CSS) -->
+            <div id="user-info">
+            </div>
+        </header>
+
+        <!-- the content -->
+		<div class="container">
+			<div class="form-signin">
+				<h2 class="form-signin-heading">Please sign in</h2>
+				<dl>
+					<dt>
+						<input class="input-block-level" data-val="true" data-val-required="The User Name field is required." id="UserName" name="UserName" placeholder="Email Address" type="text" value="" />
+						<span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+					</dt>
+					<dt>
+						<input class="input-block-level" data-val="true" data-val-length="The Password must be at least 6 characters long." data-val-length-max="100" data-val-length-min="6" data-val-required="The Password field is required." id="Password" name="Password" placeholder="Password" type="password" />
+						<span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+					</dt>
+					<div>
+						
+					</div>
+					<dt>
+						<input class="remember-me-cbx" data-val="true" data-val-required="The Remember Me field is required." id="RememberMe" name="RememberMe" type="checkbox" value="true" /><input name="RememberMe" type="hidden" value="false" />
+						<label class="remember-me-lbl" for="RememberMe">Remember Me</label>
+					</dt>
+				</dl>
+				<a href="myevents.html"><input type="button" value="Log in" class="btn btn-large btn-primary" /></a>
+				<a href="register.html"><input type="button" value="Register" class="btn btn-large btn-primary btn-right" /></a>
+				<div>
+					<br />
+					<a href="/Home/LostPassword">Forgot Your Password?</a>
+				</div>
+			</div> <!-- /form-signin -->        
+		</div> <!-- /container -->
+		
+		<script src="Assets/js/jquery-1.10.2.js"></script>
+		<script src="Assets/js/jquery-ui-1.10.4.custom.js"></script>
+		<script src="Assets/js/jquery-ui-1.10.4.custom.min.js"></script>
+		<script src="Scripts/jquery-1.8.2.js"></script>
+		<script src="Scripts/genericActions.js"></script>
+        <div id="push"></div>
+    </div>
+
+    <!-- Copyright Footer -->
+    <footer>
+        <div id="footer">
+            <div class="container">
+                <p class="muted credit">&copy; Copyright 2014 - Sogeti</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

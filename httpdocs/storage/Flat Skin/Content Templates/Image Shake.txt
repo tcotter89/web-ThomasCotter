@@ -1,0 +1,5 @@
+<span class="shake"><img alt="" src="http://demo3.bestdnnskins.com/portals/57/E6_main_03.jpg" /></span>
+
+<div class="shake">
+  <img alt="" src="http://demo3.bestdnnskins.com/portals/57/E6_main_03.jpg" />
+</div>

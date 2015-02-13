@@ -1,0 +1,6 @@
+<div class="newsletter_style">
+  <p>Don't worry, your details are safe with us.
+    For more info, read our privacy policy.</p>
+  <input type="text" />
+  <div class="sign_style"><span><a href="#">SIGN UP</a></span></div>
+</div>

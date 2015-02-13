@@ -1,0 +1,29 @@
+<script type='text/javascript' src='/portfolio/nyacoc/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js'></script>
+<script type='text/javascript' src='/portfolio/nyacoc/Resources/Shared/Scripts/jquery/jquery-ui.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>StandardMenu/StandardMenu.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>MegaMenu/MegaMenu.js'></script>
+<script type="text/javascript" src="<%= SkinPath %>js/trans-banner.min.js"></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.scrollTo.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/scrolltop.call.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.fancybox.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.mousewheel.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.easing.1.3.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/unoslider.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>bootstrap/js/bootstrap.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.accordion.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/shake.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery-transit-modified.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/layerslider.kreaturamedia.jquery.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/layerslider.transitions.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/colorpicker/js/colorpicker.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/colorpicker/js/eye.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/colorpicker/js/utils.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.cookie.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.tipsy.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.quovolver.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.retinise.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.inview.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/jquery.flexslider.min.js'></script>
+<script type='text/javascript' src='<%= SkinPath %>js/custom.js'></script>

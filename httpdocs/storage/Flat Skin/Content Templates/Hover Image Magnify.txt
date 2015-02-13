@@ -1,0 +1,9 @@
+<div class="magnify_style">
+  <div class="magnify_img"> <a href="#"> <img alt="" src="http://demo.bestdnnskins.com//portals/5/magnify_img1.png" /> </a> </div>
+  <div class="magnify_text">
+    <h4>USER INTERFACE DESIGN</h4>
+    <p>Wireframing</p>
+    <p>Prototyping</p>
+    <p>Usability testing</p>
+  </div>
+</div>

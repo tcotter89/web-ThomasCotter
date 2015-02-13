@@ -1,0 +1,38 @@
+<div class="skin_width">
+  <div class="flexslider">
+    <ul class="slides">
+      <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner2_left_1.png" />
+        <div class="flex-caption2">
+          <h1>FULL RESPONSIVE</h1>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <p class="mobile_hidden"> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s..</p>
+          <div class="readmore_box_banner"><span><a target="_blank" class="readmore_banner01" href="#">READ MORE</a></span><span><a target="_blank" class="readmore_banner02" href="#">BUY NOW</a></span></div>
+        </div>
+      </li>
+      <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner2_left_2.png" />
+        <div class="flex-caption2">
+          <h1>ONE PAGE FLAT PORTFOLIO</h1>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <p class="mobile_hidden"> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s..</p>
+          <div class="readmore_box_banner"><span><a target="_blank" class="readmore_banner01" href="#">READ MORE</a></span><span><a target="_blank" class="readmore_banner02" href="#">BUY NOW</a></span></div>
+        </div>
+      </li>
+      <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner2_left_3.png" />
+        <div class="flex-caption2">
+          <h1>UNLIMITED COLORS AND FONTS</h1>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <p class="mobile_hidden"> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s..</p>
+          <div class="readmore_box_banner"><span><a target="_blank" class="readmore_banner01" href="#">READ MORE</a></span><span><a target="_blank" class="readmore_banner02" href="#">BUY NOW</a></span></div>
+        </div>
+      </li>
+      <li><img alt="" src="http://demo.bestdnnskins.com/portals/5/banner2_left_4.png" />
+        <div class="flex-caption2">
+          <h1>CREATIVE DNN SKINS</h1>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <p class="mobile_hidden"> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s..</p>
+          <div class="readmore_box_banner"><span><a target="_blank" class="readmore_banner01" href="#">READ MORE</a></span><span><a target="_blank" class="readmore_banner02" href="#">BUY NOW</a></span></div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,5 @@
+<ul id="slider" class="unoslider">
+  <li> <a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/change_img01.jpg" /></a> </li>
+  <li> <a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/change_img02.jpg" /></a> </li>
+  <li> <a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/change_img03.jpg" /></a> </li>
+</ul>

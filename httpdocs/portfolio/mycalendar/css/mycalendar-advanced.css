@@ -1,0 +1,56 @@
+/*--------- btn-featureS ----------*/
+.btn-features {
+	position:relative;
+}
+.btn-features ul {
+	list-style:none; 
+	margin:0; padding:0; 
+	width:auto;
+}
+.btn-features ul li {
+	float:left;
+	list-style:none;
+	height:auto; min-height:200px;
+	position:relative;
+}
+.btn-features ul li img {
+	filter:Alpha(Opacity=100);opacity:1;
+}
+.btn-features ul li:hover img {
+	filter:Alpha(Opacity=60);opacity:0.6; 
+	transition: all 0.8s ease 0s;  -webkit-transition:all 0.8s ease 0s;-moz-transition:all 0.8s ease 0s;
+	display:block;
+}
+.btn-feature { 
+	position:relative;
+	height:100%;
+}
+.btn-feature .btn-feature-static{
+	position:absolute; 
+	top:0; left:10;
+}
+.btn-feature .btn-feature-static h3{
+	color:fff;
+}
+.btn-feature .btn-feature-content{ 
+	position:absolute; 
+	top:0; left:0; 
+	display:none; 
+	width:100%; height:100%;
+	text-align:center;
+}
+.btn-feature .btn-feature-content h3{ 
+	color:#fff;
+}
+.btn-feature .btn-feature-content p{ 
+	padding-top:60%; padding-left:15%; padding-right:15%;
+	font-size:22; line-height:30px;
+	color:#fff;
+}
+.btn-feature:hover .btn-feature-content{
+	display:block;
+}
+.carouFredSel_text p{
+	line-height:1.5em;
+	padding:8px 0 32px 5px;
+}

@@ -1,0 +1,10 @@
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img alt="" src="..." />
+    </li>
+    <li>
+      <img alt="" src="..." />
+    </li>
+  </ul>
+</div>

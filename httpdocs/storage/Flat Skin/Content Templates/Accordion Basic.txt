@@ -1,0 +1,14 @@
+<div class="accordion2">
+  <h3>Lorem dolor</h3>
+  <div>
+    <p>Lorem ipsum dolor sit amet...</p>
+  </div>
+  <h3>Duis aute irure</h3>
+  <div>
+    <p>Lorem ipsum dolor sit amet...</p>
+  </div>
+  <h3>Excepteur sint</h3>
+  <div>
+    <p>Lorem ipsum dolor sit amet...</p>
+  </div>
+</div>

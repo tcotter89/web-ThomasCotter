@@ -1,0 +1,71 @@
+﻿<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="../../css/master.css">
+    <link href="css/ttt-master.css" rel="stylesheet" />
+    <script src="js/webgl-utils.js"></script>
+
+    <!-- vertex shader -->
+    <script id="2d-vertex-shader" type="x-shader/x-vertex">
+        attribute vec2 a_position;
+        uniform vec2 u_resolution;
+        attribute vec2 a_texCoord;
+        varying vec2 v_texCoord;
+
+        void main() {
+        // pass the texCoord to the fragment shader
+        // The GPU will interpolate this value between points
+        v_texCoord = a_texCoord;
+
+        // convert the rectangle from pixels to 0.0 to 1.0
+        vec2 zeroToOne = a_position / u_resolution;
+
+        // convert from 0->1 to 0->2
+        vec2 zeroToTwo = zeroToOne * 2.0;
+
+        // convert from 0->2 to -1->+1 (clipspace)
+        vec2 clipSpace = zeroToTwo - 1.0;
+
+        gl_Position = vec4(clipSpace * vec2(1, -1), 0, 1);
+        }
+    </script>
+    <!-- fragment shader -->
+    <script id="2d-fragment-shader" type="x-shader/x-fragment">
+        precision mediump float;
+
+        // our texture
+        uniform sampler2D u_image;
+
+        // the texCoords passed in from the vertex shader.
+        varying vec2 v_texCoord;
+
+        void main() {
+        // Look up a color from the texture.
+        gl_FragColor = texture2D(u_image, v_texCoord);
+        }
+    </script>
+
+    <script src="js/setup.js"></script>
+    <script src="js/intro.js"></script>
+</head>
+<body id="games-main" onload="start()">
+    <div id="menu-bar">
+        <div id="menu-home"><a href="../..">THOMAS COTTER</a></div>
+        <div id="menu-item"><a href="../../aboutme.html">About Me</a></div>
+        <div id="menu-item"><a href="../../portfolio.html">Portfolio</a></div>
+        <div id="menu-item"><a href="../../css.html">CSS</a></div>
+        <div id="menu-item"><a href="../../services.html">Services</a></div>
+    </div>
+    <div class="spacing-10"></div>
+    <div id="home-content" class="fill">
+        <div id="container2" class="fill">
+            <div id="container-compact" class="fill">
+                <h1>Tic Tac Toe</h1>
+                <br />
+                <canvas id="canvas" width="640" height="480">
+                    Your browser doesn't support our game :(
+                </canvas>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

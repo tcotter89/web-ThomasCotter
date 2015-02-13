@@ -1,0 +1,92 @@
+﻿@model BootcampCapstone.Event
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <h2>Details</h2>
+    <div class="container centered">
+        <div class="form-generic">
+            <h2 class="form-generic-heading">Event Info</h2>
+            <fieldset class ="form-generic-column">
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.title)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.title)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.startDate)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.startDate)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.Type.type1)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.Type.type1)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.eventDescription)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.eventDescription)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.ownerID)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.ownerID)
+                </div>
+            </fieldset><!-- /.form-generic-column"> -->
+            <fieldset class ="form-generic-column">
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.Category.category1)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.Category.category1)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.endDate)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.endDate)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.logoPath)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.logoPath)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.location)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.location)
+                </div>
+
+                <div class="form-line">
+                     @Html.DisplayNameFor(model => model.eventStatus)
+                </div>
+                <div class="form-line display">
+                    @Html.DisplayFor(model => model.eventStatus)
+                </div>
+            </fieldset> <!-- form-generic-column -->
+        </div> <!-- /form-generic -->
+    </div> <!-- container -->
+}
+<div class="hidden">
+    @Html.ActionLink("Edit", "Edit", new { id=Model.eventID }) |
+    @Html.ActionLink("Back to List", "Index")
+</div>

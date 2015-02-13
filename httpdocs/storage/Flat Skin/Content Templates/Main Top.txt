@@ -1,0 +1,6 @@
+<div class="main_top_icon1 main_top_text">
+  <div class="hi-icon-wrap icon_effect icon_effects"> <a href="#" target="_blank" class=" hi-icon main_top_img1 "></a> </div>
+  <h3> Page Builder</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum risus ornare odio consequat fermentum repeatedly over again .</p>
+  <span class="top_read_more"><a href="#" target="_blank"> Read More &nbsp;<img alt="" src="http://demo.bestdnnskins.com/portals/5/more_arrow.png" /></a></span> 
+</div>

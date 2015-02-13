@@ -1,0 +1,18 @@
+<div class="accordion2">
+  <h3>Page Builder</h3>
+  <div>
+    <p>Consectetur adipisicing sed do eiusmod, sed diam nonummy nibh euid.sed diam nonummy nibh euid. <a href="#" target="_blank">Read More >></a></p>
+  </div>
+  <h3>Drag Drop</h3>
+  <div>
+    <p>Lorem ipsum dolor sit amet  mollit anim con sectetuer adipiscing.sed diam nonummy nibh euid. <a href="#" target="_blank">Read More >></a></p>
+  </div>
+  <h3>Fully Retina</h3>
+  <div>
+    <p>Lorem ipsum dolor sit amet laboris nisi adip iscing elit nonuibh.sed diam nonummy nibh euid. <a href="#" target="_blank">Read More >></a></p>
+  </div>
+  <h3>Easy Options</h3>
+  <div>
+    <p>Lorem ipsum dolor sit amet laboris nisi adip iscing elit nonuibh.sed diam nonummy nibh euid. <a href="#" target="_blank">Read More >></a></p>
+  </div>
+</div>

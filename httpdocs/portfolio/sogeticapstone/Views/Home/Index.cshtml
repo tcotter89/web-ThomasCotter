@@ -1,0 +1,39 @@
+﻿@model BootcampCapstone.Models.AccountModel.LogInModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="container">
+        <fieldset class="form-signin">
+            <h2 class="form-signin-heading">Please sign in</h2>
+            <dl>
+                <dt>
+                    @Html.TextBoxFor(m => m.UserName, new { @class = "input-block-level", @placeholder = "Email Address"})
+                    @Html.ValidationMessageFor(m => m.UserName)
+                </dt>
+                <dt>
+                    @Html.PasswordFor(m => m.Password, new { @class = "input-block-level", @placeholder = "Password"})
+                    @Html.ValidationMessageFor(m => m.Password)
+                </dt>
+                <div>
+                    @ViewBag.Error
+                </div>
+                <dt>
+                    @Html.CheckBoxFor(m => m.RememberMe, new { @class = "remember-me-cbx" })
+                    @Html.LabelFor(m => m.RememberMe, new { @class = "remember-me-lbl" })
+                </dt>
+            </dl>
+            <input type="submit" value="Log in" class="btn btn-large btn-primary" />
+            <input type="button" value="Register" class="btn btn-large btn-primary btn-right" onclick="@("location.href='" + Url.Action("Create", "User") + "'")" />
+            <div>
+                <br />
+                @Html.ActionLink("Forgot Your Password?", "LostPassword")
+            </div>
+        </fieldset> <!-- form-signin -->        
+    </div> <!-- /container -->
+}

@@ -1,0 +1,8 @@
+<div class="Social-Links clearafter">
+  <a class="iconFacebook" title="Facebook" rel="tooltip" target="_blank" href="#"></a>
+  <a class="iconPinterest" title="Pinterest" rel="tooltip" target="_blank" href="#"></a>
+  <a class="iconTwitter" title="Twitter" rel="tooltip" target="_blank" href="#"></a>
+  <a class="iconGitHub" title="GitHub" rel="tooltip" target="_blank" href="#"></a>
+  <a class="iconVimeo" title="Vimeo" rel="tooltip" target="_blank" href="#"></a>
+  <a class="iconRss" title="Rss" rel="tooltip" target="_blank" href="#"></a>
+</div>

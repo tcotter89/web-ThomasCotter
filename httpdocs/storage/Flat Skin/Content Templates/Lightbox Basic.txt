@@ -1,0 +1,1 @@
+<a href="xxx.jpg" title="xxx" class="fancybox" rel="group"><img alt="" src="xxx-s.jpg" /></a>

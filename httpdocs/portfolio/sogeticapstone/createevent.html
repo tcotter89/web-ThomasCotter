@@ -1,0 +1,138 @@
+﻿<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Create Event</title>
+	<link rel="stylesheet" type="text/css" href="../../css/master.css">
+    <link href="Assets/css/site.css" rel="stylesheet"/>
+    <script src="Scripts/modernizr-2.6.2.js"></script>
+    <link href="Assets/css/bootstrap.css" rel="stylesheet">
+    <link href="Assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="Assets/css/styles.css" rel="stylesheet">
+    <link href="Assets/css/theming.css" rel="stylesheet">
+</head>
+<body id="main">
+	<div id="menu-bar">
+		<div id="menu-home"><a href="../..">THOMAS COTTER</a></div>
+		<div id="menu-item"><a href="../../aboutme.html">About Me</a></div>
+		<div id="menu-item"><a href="../../portfolio.html">Portfolio</a></div>
+        <div id="menu-item"><a href="../../css.html">CSS</a></div>
+		<div id="menu-item"><a href="../../services.html">Services</a></div>
+	</div>
+    <div id="wrap">
+        <header>
+            <div id="head"></div> <!-- The Sogeti Banner (check theming CSS) -->
+            <div id="user-info">
+                <span>Hello User</span>
+				<a href="login.html">Logout</a>
+				<a href="myevents.html">Home</a>
+            </div>
+        </header>
+		<div class="sidebar span3">
+			<div class="well sidebar-nav">
+				<ul class="nav nav-list">
+					<li><a href="myevents.html">My Events</a><!-- Events.MyEvents --></li>
+					<li class="active"><a href="createevent.html">Create Event</a><!-- Events.Create --></li>
+					<li><a href="findevents.html">Find Events</a><!-- Events.Index --></li>
+					<li><a href="account.html">My Account</a><!-- User.MyAccount --></li>
+				</ul>
+			</div><!--/.well -->
+		</div><!--/span-->
+		
+        <!-- the content -->
+		<div class="container centered">
+			<div class="form-generic">
+				<h2 class="form-generic-heading">Create Event</h2>
+				<div class ="form-generic-column">
+					<div class="form-line">
+						<span>Title</span>
+					</div>
+					<div class="form-line">
+						<input type="text" />
+					</div>
+					<div class="form-line">
+						<span>Start Date</span>
+					</div>
+					<div class="form-line">
+						<input type="text" />
+					</div>
+					<div class="form-line">
+						<span>Description</span>
+					</div>
+					<div class="form-line">
+						<input type="text" />
+					</div>
+					<div class="form-line">
+						<span>Location</span>
+					</div>
+					<div class="form-line">
+						<input type="text" />
+					</div>
+					<div class="form-line">
+						<span>Logo</span>
+					</div>
+					<div class="form-line">
+						<input type="text" class="small-tbx" /><input type="button" value="Browse" class="btn btn-small btn-primary"/>
+					</div>
+				</div> <!-- /form-generic-column -->
+				<div class ="form-generic-column">
+					<div class="form-line">
+						<span>Category</span>
+					</div>
+					<div class="form-line">
+						<select>
+							<option value="1">Meeting</option>
+							<option value="2">Presentation</option>
+							<option value="3">After-Hours</option>
+						</select>
+					</div>
+					<div class="form-line">
+						<span>End Date</span>
+					</div>
+					<div class="form-line">
+						<input type="text" />
+					</div>
+					<div class="form-line">
+						<span>Type</span>
+					</div>
+					<div class="form-line">
+						<select>
+							<option value="1">Holiday</option>
+							<option value="2">Workplace Party</option>
+							<option value="3">External Party</option>
+							<option value="4">Charity Event</option>
+						</select>
+					</div>
+					<div class="form-line">
+						<span>Event Status</span>
+					</div>
+					<div class="form-line">
+						<input type="text" />
+					</div>
+					<div class="form-line">
+						<span>Additional Info</span>
+					</div>
+					<div class="form-line">
+						<textarea></textarea>
+					</div>
+				</div> <!-- /form-generic-column -->
+				<a href="findevents.html"><input type="button" value="Create" class="btn btn-large btn-primary"/></a>
+			</div> <!-- /form-generic -->
+            <script src="Assets/js/jquery-1.10.2.js"></script>
+            <script src="Assets/js/jquery-ui-1.10.4.custom.js"></script>
+            <script src="Assets/js/jquery-ui-1.10.4.custom.min.js"></script>
+			<script src="Scripts/jquery-1.8.2.js"></script>
+            <script src="Scripts/genericActions.js"></script>
+        <div id="push"></div>
+    </div>
+
+    <!-- Copyright Footer -->
+    <footer>
+        <div id="footer">
+            <div class="container">
+                <p class="muted credit">&copy; Copyright 2014 - Sogeti</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

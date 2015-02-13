@@ -1,0 +1,12 @@
+<ul class="nav nav-tabs">
+    <li><a href="#item1" data-toggle="tab">Home</a></li>
+    <li><a href="#item2" data-toggle="tab">Profile</a></li>
+    <li><a href="#item3" data-toggle="tab">Messages</a></li>
+    <li><a href="#item4" data-toggle="tab">Settings</a></li>
+</ul>
+<div class="tab-content">
+  <div class="tab-pane active" id="item1">Content text 1 ...</div>
+  <div class="tab-pane" id="item2">Content text 2 ...</div>
+  <div class="tab-pane" id="item3">Content text 3 ...</div>
+  <div class="tab-pane" id="item4">Content text 4 ...</div>
+</div>

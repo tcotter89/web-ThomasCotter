@@ -1,0 +1,32 @@
+<div class="quovolve-box play">
+  <div class="quovolve-nav quovolve-nav-above">
+    <ul class="nav-numbers" style="border: 0px; padding: 0px;">
+      <li class="active"><a href="#item-1"><img alt="" src="http://demo.bestdnnskins.com/portals/2/quovolve01.jpg" /></a></li>
+      <li><a href="#item-2"><img alt="" src="http://demo.bestdnnskins.com/portals/2/quovolve02.png" /></a></li>
+      <li><a href="#item-3"><img alt="" src="http://demo.bestdnnskins.com/portals/2/quovolve03.png" /></a></li>
+    </ul>
+  </div>
+  <ul style="position: relative; height: auto;" class="quovolve clearafter" id="quovolver_style">
+    <li style="display: none;">
+      <div class="quovolve-box_text">
+        <p><span> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei<br />
+          usmod tempor incididunt ut labore et dolore magna aliqua. </span> </p>
+        <h5>- John Edward Smith-CEO</h5>
+      </div>
+    </li>
+    <li style="display: none;">
+      <div class="quovolve-box_text">
+        <p><span> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, <br />
+          consectetur, adipisci velit&amp;hellip.</span> </p>
+        <h5>- John Abraham</h5>
+      </div>
+    </li>
+    <li style="display: list-item;">
+      <div class="quovolve-box_text">
+        <p><span> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei<br />
+          usmod tempor incididunt ut labore et dolore magna aliqua. </span> </p>
+        <h5>- John Edward Smith-CEO</h5>
+      </div>
+    </li>
+  </ul>
+</div>

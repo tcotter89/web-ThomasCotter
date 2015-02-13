@@ -1,0 +1,22 @@
+<div class="fancybox_style">
+<ul>
+    <li><a rel="group" class="fancybox" title="Exciting Title!" href="http://demo.bestdnnskins.com/Portals/2/Photo1.jpg"><img alt="" src="http://demo.bestdnnskins.com/Portals/2/Photo1-small.jpg" />
+    <div class="img-overlay"></div>
+    </a></li>
+    <li><a rel="group" class="fancybox" title="Yup, More Text.." href="http://demo.bestdnnskins.com/Portals/2/Photo2.jpg"><img alt="" src="http://demo.bestdnnskins.com/Portals/2/Photo2-small.jpg" />
+    <div class="img-overlay"></div>
+    </a></li>
+    <li><a rel="group" class="fancybox" title="Yelf Up." href="http://demo.bestdnnskins.com/Portals/2/Photo3.jpg"><img alt="" src="http://demo.bestdnnskins.com/Portals/2/Photo3-small.jpg" />
+    <div class="img-overlay"></div>
+    </a></li>
+    <li><a rel="group" class="fancybox" title="Bonjour!!" href="http://demo.bestdnnskins.com/Portals/2/Photo4.jpg"><img alt="" src="http://demo.bestdnnskins.com/Portals/2/Photo4-small.jpg" />
+    <div class="img-overlay"></div>
+    </a></li>
+    <li><a rel="group" class="fancybox" title="Exciting Title!" href="http://demo.bestdnnskins.com/Portals/2/Photo5.jpg"><img alt="" src="http://demo.bestdnnskins.com/Portals/2/Photo5-small.jpg" />
+    <div class="img-overlay"></div>
+    </a></li>
+    <li><a rel="group" class="fancybox" title="Yup, More Text.." href="http://demo.bestdnnskins.com/Portals/2/Photo6.jpg"><img alt="" src="http://demo.bestdnnskins.com/Portals/2/Photo6-small.jpg" />
+    <div class="img-overlay"></div>
+    </a></li>
+</ul>
+</div>

@@ -1,0 +1,109 @@
+﻿@model BootcampCapstone.Event
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <h2>Edit</h2>
+    <div class="container centered">
+        <div class="form-generic">
+            <h2 class="form-generic-heading">Edit Event</h2>
+            <fieldset class ="form-generic-column">
+                @Html.HiddenFor(model => model.eventID)
+                <div class="form-line">
+                    @Html.LabelFor(model => model.title)
+                </div>
+                <div class="form-line field">
+                    @Html.EditorFor(model => model.title)
+                    @Html.ValidationMessageFor(model => model.title)
+                </div>
+
+                <div class="form-line">
+                    @Html.LabelFor(model => model.startDate)
+                </div>
+                <div class="form-line field">
+                    @Html.TextBoxFor(model => model.startDate, new {@class = "dateField", type = "date"})
+                    @Html.ValidationMessageFor(model => model.startDate)
+                </div>
+                
+                <div class="form-line">
+                    @Html.LabelFor(model => model.typeID, "Type")
+                </div>
+                <div class="form-line field">
+                    @Html.DropDownList("typeID", String.Empty)
+                    @Html.ValidationMessageFor(model => model.typeID)
+                </div>
+
+                <div class="form-line">
+                    @Html.LabelFor(model => model.eventDescription)
+                </div>
+                <div class="form-line field">
+                    @Html.EditorFor(model => model.eventDescription)
+                    @Html.ValidationMessageFor(model => model.eventDescription)
+                </div>
+
+                <div class="form-line">
+                    @Html.LabelFor(model => model.eventStatus)
+                </div>
+                <div class="form-line field">
+                    @Html.EditorFor(model => model.eventStatus)
+                    @Html.ValidationMessageFor(model => model.eventStatus)
+                </div>
+            </fieldset><!-- /form-generic-column -->
+            <fieldset class ="form-generic-column">
+                <div class="form-line">
+                    @Html.LabelFor(model => model.categoryID, "Category")
+                </div>
+                <div class="form-line field">
+                    @Html.DropDownList("categoryID", String.Empty)
+                    @Html.ValidationMessageFor(model => model.categoryID)
+                </div>
+
+                <div class="form-line">
+                    @Html.LabelFor(model => model.endDate)
+                </div>
+                <div class="form-line field">
+                    @Html.TextBoxFor(model => model.endDate, new {@class = "dateField", type = "date"})
+                    @Html.ValidationMessageFor(model => model.endDate)
+                </div>
+
+                <div class="form-line">
+                    @Html.LabelFor(model => model.ownerID)
+                </div>
+                <div class="form-line field">
+                    @Html.EditorFor(model => model.ownerID)
+                    @Html.ValidationMessageFor(model => model.ownerID)
+                </div>
+
+                <div class="form-line">
+                    @Html.LabelFor(model => model.logoPath)
+                </div>
+                <div class="form-line field">
+                    @Html.EditorFor(model => model.logoPath)
+                    @Html.ValidationMessageFor(model => model.logoPath)
+                </div>
+
+                <div class="form-line">
+                    @Html.LabelFor(model => model.location)
+                </div>
+                <div class="form-line field">
+                    @Html.EditorFor(model => model.location)
+                    @Html.ValidationMessageFor(model => model.location)
+                </div>
+                <input type="submit" value="Save" class="btn btn-large btn-primary right-spacing-small"  />
+                <input type="submit" value="Cancel" class="btn btn-large btn-primary" onclick="@("location.href='" + Url.Action("Index", "Event") + "'")" />
+            </fieldset> <!-- form-generic-column -->
+        </div> <!-- /form-generic -->
+    </div> <!-- container -->
+}
+
+<div class="hidden">
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,5 @@
+<div class="design_text_style">
+  <h3><span class="responsive_style">Responsive</span><span class="design_style">Design</span></h3>
+  <p>Welcome to our website. Here, you can know more about our services. We are the best expert on DNN skins because we concentrate on the study and design of DNN skins over Eight years. One of the most flexible responsive web design you will ever work with!&nbsp; <a href="#" target="_blank">Read More&gt;&gt;</a></p>
+  <div class="row-fluid  clearafter"> <span class="design_button1 span6"> <a target="_blank" href="#">BUY THIS THEME</a></span> <span class="design_button2 span6"> <a target="_blank" href="#">MEET FEATURES</a></span> </div>
+</div>

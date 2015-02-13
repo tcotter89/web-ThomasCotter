@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Assets/css/bootstrap.css" rel="stylesheet">
+    <link href="~/Assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="~/Assets/css/styles.css" rel="stylesheet">
+    <link href="~/Assets/css/theming.css" rel="stylesheet">
+    @if(!TempData.ContainsKey("CurrentPage")) {
+        TempData.Add("CurrentPage", "FindEvents");
+    }
+</head>
+<body id="main">
+    <div id="wrap">
+        <header>
+            <div id="head"></div> <!-- The Sogeti Banner (check theming CSS) -->
+            <div id="user-info">
+                @if (User.Identity.Name != "") {
+                    @Html.Raw("Hello, ")
+                    @User.Identity.Name
+                    <br />
+                    @Html.ActionLink("Logout", "Logout", "Home")
+                }
+            </div>
+        </header>
+
+         @if (!String.IsNullOrEmpty(User.Identity.Name)) {
+            switch ((string)TempData["CurrentPage"])
+            {
+                case "MyEvents":
+                    <div class="sidebar span3">
+                    <div class="well sidebar-nav">
+                        <ul class="nav nav-list">
+                            <li class="active">@Html.ActionLink("My Events", "MyEvents", "Event")</li>
+                            <li>@Html.ActionLink("Create Event", "Create", "Event")</li>
+                            <li>@Html.ActionLink("Find Events", "Index", "Event")</li>
+                            <li>@Html.ActionLink("My Account", "MyAccount", "User")</li>
+                        </ul>
+                    </div><!--/.well -->
+                    </div><!--/span-->
+                    break;
+                case "CreateEvent":
+                    <div class="sidebar span3">
+                    <div class="well sidebar-nav">
+                        <ul class="nav nav-list">
+                            <li>@Html.ActionLink("My Events", "MyEvents", "Event")</li>
+                            <li class="active">@Html.ActionLink("Create Event", "Create", "Event")</li>
+                            <li>@Html.ActionLink("Find Events", "Index", "Event")</li>
+                            <li>@Html.ActionLink("My Account", "MyAccount", "User")</li>
+                        </ul>
+                    </div><!--/.well -->
+                    </div><!--/span-->
+                    break;
+                case "MyAccount":
+                    <div class="sidebar span3">
+                    <div class="well sidebar-nav">
+                        <ul class="nav nav-list">
+                            <li>@Html.ActionLink("My Events", "MyEvents", "Event")</li>
+                            <li>@Html.ActionLink("Create Event", "Create", "Event")</li>
+                            <li>@Html.ActionLink("Find Events", "Index", "Event")</li>
+                            <li class="active">@Html.ActionLink("My Account", "MyAccount", "User")</li>
+                        </ul>
+                    </div><!--/.well -->
+                    </div><!--/span-->
+                    break;
+                default:
+                    <div class="sidebar span3">
+                    <div class="well sidebar-nav">
+                        <ul class="nav nav-list">
+                            <li>@Html.ActionLink("My Events", "MyEvents", "Event")</li>
+                            <li>@Html.ActionLink("Create Event", "Create", "Event")</li>
+                            <li class="active">@Html.ActionLink("Find Events", "Index", "Event")</li>
+                            <li>@Html.ActionLink("My Account", "MyAccount", "User")</li>
+                        </ul>
+                    </div><!--/.well -->
+                    </div><!--/span-->
+                    break;
+                    
+                    
+            }
+    }
+
+        <!-- the content -->
+            @RenderBody()
+            <script src="~/Assets/js/jquery-1.10.2.js"></script>
+            <script src="~/Assets/js/jquery-ui-1.10.4.custom.js"></script>
+            <script src="~/Assets/js/jquery-ui-1.10.4.custom.min.js"></script>
+            @Scripts.Render("~/bundles/jquery")
+            @RenderSection("scripts", required: false)
+            <script src="~/Scripts/genericActions.js"></script>
+        <div id="push"></div>
+    </div>
+
+    <!-- Copyright Footer -->
+    <footer>
+        <div id="footer">
+            <div class="container">
+                <p class="muted credit">&copy; Copyright @DateTime.Now.Year - Sogeti</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

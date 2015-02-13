@@ -1,0 +1,3 @@
+﻿/*LOCK USER TO BOXED VIEW MODE*/
+#skin_wrapper {width:1140px;  position:inherit!important;z-index:1;  background:#fff; margin:0 auto; }
+.skin_width { width:100%;max-width:1140px;min-width:767px;margin:0 auto; position:relative;}

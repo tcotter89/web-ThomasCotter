@@ -1,0 +1,26 @@
+Flat Skin Pack comes in a user custom panel, including Unlimited bakckground color options, 16 background pattern options, boxed/stretched wrap options and Reset button.
+
+Includes 15 Pre-defined colors: BlueViolet, CadetBlue, Chocolate, Copper, DodgerBlue, FireBrick, Goldenrod, Gray, LimeGreen, MediumSeaGreen, MediumVioletRed, RoyalBlue, SlateGray, SteelBlue, YellowGreen.
+
+Adaptive Responsive Design works great across Desktop, Tablet, Mobile Phones and adjusts to different screen sizes.
+
+Comes 3 menu options: DNN Standard Menu, DNN Mega Menu and LeftMenu. All menus are very good for website SEO.
+
+Includes DotNetNuke 7 Portal Template. You can create a demo site the same as ours in minutes.
+
+Includes Several Page Layouts: About, Services, FAQ, Price Table, 404 Page, Contact, Testimonials etc.
+
+15 matching containers in each color skin, giving a total of 225 containers included in this pack.
+
+Imports Twitter Bootstrap which offers complete Typography options, dozens of components and JavaScript plugins.
+
+Includes four responsive slideshow jQuery plugin and 12 slideshow templates which you can make banner slideshow easily on your site.
+
+Includes several jQuery plugins which can realize these effect: Picture Lightbox, Carousel, Isotope and Image Shake etc.
+
+Compatible with DNN 5.x, DNN 6.x and DNN 7.x. Guaranteed to work with future versions aswell.
+
+Tested in and works with Internet Explorer, Firefox, Opera, Safari & Chrome.
+
+
+E-mail£ºcontact@bestdnnskins.com.

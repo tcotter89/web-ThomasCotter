@@ -1,0 +1,22 @@
+<div class="footer_tag">
+<ul>
+    <li>
+    <a target="_blank" href="#"><span>Dotnetnuke</span></a>
+    <a target="_blank" href="#"><span>Retina</span></a>
+    <a target="_blank" href="#"><span>DNN Skins</span></a>
+    </li>
+    <li>
+    <a target="_blank" href="#"><span>Responsive</span></a>
+    <a target="_blank" href="#"><span>Clean</span></a>
+    <a target="_blank" href="#"><span>Downloads</span></a>
+    </li>
+    <li>
+    <a target="_blank" href="#"><span>1140 Grid</span></a>
+    <a target="_blank" href="#"><span>HTML5&amp; CSS 3</span></a>
+    </li>
+    <li>
+    <a target="_blank" href="#"><span>Popular Web</span></a>
+    <a target="_blank" href="#"><span>Colors</span></a>
+    </li>
+</ul>
+</div>

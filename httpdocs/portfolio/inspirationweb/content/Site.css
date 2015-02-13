@@ -1,0 +1,131 @@
+﻿body {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.jumbotron {
+    padding:0px !important;
+    min-height:650px;
+    margin-bottom:15px;
+	text-align:left;
+}
+
+.jumbotron-background {
+    position:absolute;
+    background-image:url(img/meeting.jpg);
+    background-repeat:no-repeat;
+    background-size:contain;
+    height:100%;
+    width:100%;
+    border-radius:6px;
+}
+
+.jumbotron-underlay {
+    position:absolute;
+    border-radius:6px;
+    z-index: 1;
+    opacity:0.25;
+    max-width:100%;
+    width:1140px; height:650px;
+}
+
+.jumbotron-content {
+    position:absolute;
+    z-index: 2;
+    /*margin: 48px 60px;*/
+    padding:45px;
+    width:1140px;
+}
+
+.headliner {
+    margin:0px 5px 0px 5px;
+    background-color:lightsteelblue;
+    border-radius:20px;
+    display:inline-block;
+    max-width:270px;
+    max-height:270px;
+    box-shadow: inset -8px -8px 8px rgba(0,0,0,0.25), /*bottom internal shadow*/
+                inset  8px  8px 8px rgba(255,255,255,0.5); /*top internal highlight*/
+}
+
+.overlay {
+    position: absolute;
+    z-index: 2;
+    max-width:100%;
+    margin:10px;
+    height:250px;
+    width:250px;
+    pointer-events:none;
+}
+
+.underlay {
+    border-radius:20px;
+    z-index: 1;
+    opacity:0.25;
+    max-width:100%;
+    height:270px;
+    width:270px;
+    box-shadow: inset -8px -8px 8px rgba(0,0,0,0.25), /*bottom internal shadow*/
+                inset  8px  8px 8px rgba(255,255,255,0.5); /*top internal highlight*/
+}
+
+.underlay:hover {
+    opacity:0.4;
+}
+
+.bottom-spacing {
+    margin-bottom:20px;
+}
+
+.lead {
+    margin-left:15px;
+    color:steelblue;
+}
+
+.tab-content {
+    z-index:3;
+}
+
+.tab-pane {
+    padding:20px;
+    background-color:white;
+    margin-bottom:20px;
+}
+
+.nav-tabs {
+    border-bottom:none;
+}
+
+.nav-tabs > li {
+    margin-right:10px;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover {
+    border:1px solid white;
+    border-bottom-color: white;
+    border-color: #ffffff;
+}
+
+.nav-tabs > li > a:hover {
+    border:none;
+    background-color:lightgray;
+    border-bottom-color:transparent;
+}
+
+footer p {
+    margin-bottom:5px;
+}

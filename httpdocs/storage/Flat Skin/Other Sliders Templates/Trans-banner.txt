@@ -1,0 +1,8 @@
+<div class="TB_Wrapper">
+  <div class="Slides">
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_01.jpg" alt="img1" /> </div>
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_02.jpg" alt="img2" /> </div>
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_03.jpg" alt="img3" /> </div>
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_04.jpg" alt="img4" /> </div>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div class="footer_post">
+  <p><img alt="" src="/portals/5/recent_img.png" />&nbsp;&nbsp;<a href="#">This is a Standard Post</a></p>
+  <span class="post_date">Sep 10, 2013</span>
+  <div class="pe-spacer size20"></div>
+  <p><img alt="" src="/portals/5/recent_img.png" />&nbsp;&nbsp;<a href="#">Post with Featured Image</a></p>
+  <span class="post_date">Sep 5, 2013</span>
+  <div class="pe-spacer size20"></div>
+  <p><img alt="" src="/portals/5/recent_img.png" />&nbsp;&nbsp;<a href="#">Beautiful Gallery Post</a></p>
+  <span class="post_date">Sep 2, 2013</span>
+</div>

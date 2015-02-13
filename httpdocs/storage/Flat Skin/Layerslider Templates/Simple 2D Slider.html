@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>LayerSlider - a jQuery parallax slider from Kreatura Media</title>
+<link rel="stylesheet" href="layerslider/layerslider.css" type="text/css">
+</head>
+
+<body>
+
+<!--Template Code Start-->
+
+<div id="layerslider-container">
+  <div id="layerslider" style="width: 1600px; height: 530px; margin: 0px auto;">
+    <div class="ls-layer" style="slidedelay: 6000; transition2d: 10,11,12,13,14,23,24,27,34,37,48,49,50,51,52,53,56,63,66;"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_01.jpg" class="ls-bg" alt="" /> </div>
+    <div class="ls-layer" style="slidedelay: 6000; transition2d: 10,11,12,13,14,23,24,27,34,37,48,49,50,51,52,53,56,63,66;"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_02.jpg" class="ls-bg" alt="" /> </div>
+    <div class="ls-layer" style="slidedelay: 6000; transition2d: 10,11,12,13,14,23,24,27,34,37,48,49,50,51,52,53,56,63,66;"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_03.jpg" class="ls-bg" alt="" /> </div>
+    <div class="ls-layer" style="slidedelay: 6000; transition2d: 10,11,12,13,14,23,24,27,34,37,48,49,50,51,52,53,56,63,66;"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_04.jpg" class="ls-bg" alt="" /> </div>
+  </div>
+</div>
+
+
+
+<!--Template Code End-->
+
+
+<script src="layerslider/jquery.min.js" type="text/javascript"></script>
+<script src="layerslider/jquery-easing-1.3.js" type="text/javascript"></script>
+<script src="layerslider/jquery-transit-modified.js" type="text/javascript"></script>
+<script src="layerslider/layerslider.transitions.js" type="text/javascript"></script>
+<script src="layerslider/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(function(){
+	$(document).ready(function(){
+		$('#layerslider').layerSlider({
+			skinsPath : 'layerslider/skins/',	
+			skin : 'fullwidth',
+			thumbnailNavigation : 'none',
+			navButtons: false,
+			navStartStop: false
+		});
+	});
+});	
+</script>		
+
+</body>
+</html>

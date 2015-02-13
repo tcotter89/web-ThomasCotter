@@ -1,0 +1,4 @@
+<img alt="" class="retina" data-alt="Follow Us" data-src="http://demo3.bestdnnskins.com/portals/68/icon_hover_01.png" />
+<noscript>
+  <img src="http://demo3.bestdnnskins.com/portals/68/icon_hover_01.png" alt="Follow Us" />
+</noscript>

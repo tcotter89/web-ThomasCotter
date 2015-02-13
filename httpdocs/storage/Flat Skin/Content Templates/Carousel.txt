@@ -1,0 +1,45 @@
+<div class="carouFredSel">
+  <ul id="carouFredSel">
+    <li>
+      <div class="carouFredSel_img"><a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/carou-img1.jpg" /></a>
+        <div class="carouFredSel_describe">
+          <h3>FLAT DESIGN</h3>
+          <p>GAME DESIGN, APP DESIGN</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="carouFredSel_img"><a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/carou-img2.jpg" /></a>
+        <div class="carouFredSel_describe">
+          <h3>FLAT DESIGN</h3>
+          <p>GAME DESIGN, APP DESIGN</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="carouFredSel_img"><a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/carou-img3.jpg" /></a>
+        <div class="carouFredSel_describe">
+          <h3>FLAT DESIGN</h3>
+          <p>GAME DESIGN, APP DESIGN</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="carouFredSel_img"><a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/carou-img4.jpg" /></a>
+        <div class="carouFredSel_describe">
+          <h3>FLAT DESIGN</h3>
+          <p>GAME DESIGN, APP DESIGN</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="carouFredSel_img"><a href="#"><img alt="" src="http://demo.bestdnnskins.com/portals/5/carou-img5.jpg" /></a>
+        <div class="carouFredSel_describe">
+          <h3>FLAT DESIGN</h3>
+          <p>GAME DESIGN, APP DESIGN</p>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <div class="carouFredSel_nav"> <a id="caroul_prev" class="caroul_prev" href="#"></a> <a id="caroul_next" class="caroul_next" href="#"></a> </div>
+</div>

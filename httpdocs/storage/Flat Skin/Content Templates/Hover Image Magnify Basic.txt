@@ -1,0 +1,3 @@
+<div class="magnify_img"> 
+  <a href="#"> <img alt="" src="http://demo.bestdnnskins.com//portals/5/magnify_img1.png" /> </a>
+</div>

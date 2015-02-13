@@ -1,0 +1,97 @@
+<div class="tab_whole">
+  <ul class="nav nav-tabs nav-tabs2" id="myTab">
+    <li class="active"><a href="#tab1" data-toggle="tab">
+      <p class="Icon_one"><span>Dotnetnuke Skins</span></p>
+      </a></li>
+    <li><a href="#tab2" data-toggle="tab">
+      <p class="Icon_two"><span>Collect Ideas</span></p>
+      </a></li>
+    <li><a href="#tab3" data-toggle="tab">
+      <p class="Icon_three"><span>Flat Design</span></p>
+      </a></li>
+    <li><a href="#tab4" data-toggle="tab">
+      <p class="Icon_four"><span>Grid Layout</span></p>
+      </a></li>
+    <li><a href="#tab5" data-toggle="tab">
+      <p class="Icon_five"><span>Who We Are</span></p>
+      </a></li>
+    <li><a href="#tab6" data-toggle="tab">
+      <p class="Icon_six"><span>What We Do</span></p>
+      </a></li>
+  </ul>
+  <div class="tab-content tab-content2" id="myTabContent">
+    <div class="tab-pane fade in active" id="tab1">
+      <div class="row-fluid">
+        <div class="tab_left_text span6">
+          <h3>Responsive Design &amp; Retina Ready</h3>
+          <p>Ready for small, medium and pixel perfection screens!</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.</p>
+          <p>Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&rsquo;s standard.demus et olae of the printing and typesetting .</p>
+          <span><a href="#" target="_blank">Read More&gt;&gt;</a></span> </div>
+        <div class="tab_left_img shake span6"> <img alt="" src="http://demo.bestdnnskins.com/portals/5/tab_right_img1.jpg" /> </div>
+      </div>
+    </div>
+    <div class="tab-pane fade" id="tab2">
+      <div class="row-fluid">
+        <div class="tab_left_text span6">
+          <h3>Collect Ideas</h3>
+          <p>Take our predefined layouts and set them easy and faster!</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.</p>
+          <p>Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&rsquo;s standard.demus et olae of the printing and typesetting .</p>
+          <span><a href="#" target="_blank">Read More&gt;&gt;</a></span> </div>
+        <div class="tab_left_img shake span6"> <img alt="" src="http://demo.bestdnnskins.com/portals/5/tab_right_img2.png" /> </div>
+      </div>
+    </div>
+    <div class="tab-pane fade" id="tab3">
+      <div class="row-fluid">
+        <div class="tab_left_text span6">
+          <h3>Flat Design</h3>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. </p>
+          <p>Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&rsquo;s standard.demus et olae of the printing and typesetting .</p>
+          <span><a href="#" target="_blank">Read More&gt;&gt;</a></span> </div>
+        <div class="tab_left_img shake span6"> <img alt="" src="http://demo.bestdnnskins.com/portals/5/tab_right_img3.png" /> </div>
+      </div>
+    </div>
+    <div class="tab-pane fade" id="tab4">
+      <div class="row-fluid">
+        <div class="tab_left_text span6">
+          <h3>Grid Layout</h3>
+          <p>need to really build something exceptional.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.</p>
+          <p>Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&rsquo;s standard.demus et olae of the printing and typesetting .</p>
+          <span><a href="#" target="_blank">Read More&gt;&gt;</a></span> </div>
+        <div class="tab_left_img shake span6"> <img alt="" src="http://demo.bestdnnskins.com/portals/5/tab_right_img4.png" /> </div>
+      </div>
+    </div>
+    <div class="tab-pane fade" id="tab5">
+      <div class="row-fluid">
+        <div class="tab_left_text span6">
+          <h3>Who We Are</h3>
+          <p>Welcome to Bestdnnskins.com,Lorem ipsum dolor sit amet consecte</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. </p>
+          <p>Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&rsquo;s standard.demus et olae of the printing and typesetting .</p>
+          <span><a href="#" target="_blank">Read More&gt;&gt;</a></span> </div>
+        <div class="tab_left_img shake span6"> <img alt="" src="http://demo.bestdnnskins.com/portals/5/tab_right_img5.jpg" /> </div>
+      </div>
+    </div>
+    <div class="tab-pane fade" id="tab6">
+      <div class="row-fluid">
+        <div class="tab_left_text span6">
+          <h3>Collect Ideas</h3>
+          <p>Take our predefined layouts and set them easy and faster!</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.</p>
+          <p>Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&rsquo;s standard.demus et olae of the printing and typesetting .</p>
+          <span><a href="#" target="_blank">Read More&gt;&gt;</a></span> </div>
+        <div class="tab_left_img shake span6"> <img alt="" src="http://demo.bestdnnskins.com/portals/5/tab_right_img6.jpg" /> </div>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+</div>

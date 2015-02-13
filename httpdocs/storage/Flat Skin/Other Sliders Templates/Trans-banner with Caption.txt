@@ -1,0 +1,16 @@
+<div class="TB_Wrapper">
+  <div class="Slides">
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_01.jpg" alt="img1" />
+      <div style="text-align: center;">Translucent background for captions with cross browser compatibility. Supports Responsive layout.</div>
+    </div>
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_02.jpg" alt="img2" />
+      <div style="text-align: center;">Supports swipe navigation for Android and iOS devices. Adjustable drop and throw sensitivity.</div>
+    </div>
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_03.jpg" alt="img3" />
+      <div style="text-align: center;">Possible to super-impose color layer over the translucent background to improve visibility.</div>
+    </div>
+    <div class="Slide"> <img src="http://demo.bestdnnskins.com/portals/5/banner3_04.jpg" alt="img4" />
+      <div style="text-align: center;">4 Transition effects to choose: <span style="font-style: italic;">Move, Fade, Slide In, Slide Out.</span> Touch swipe uses 2 of them.</div>
+    </div>
+  </div>
+</div>

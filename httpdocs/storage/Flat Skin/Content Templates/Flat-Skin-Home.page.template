@@ -1,0 +1,1692 @@
+<portal version="3.0">
+  <description>Flat Skin Demo Page by Bestdnnskins.com</description>
+  <tabs>
+    <tab>
+      <content>Home</content>
+      <contentKey />
+      <containersrc>[G]Containers/Flat-CadetBlue/NoTitle.ascx</containersrc>
+      <cultureCode />
+      <description />
+      <disabled>false</disabled>
+      <enddate>0001-01-01T00:00:00</enddate>
+      <issecure>false</issecure>
+      <visible>true</visible>
+      <keywords />
+      <pageheadtext />
+      <permanentredirect>false</permanentredirect>
+      <refreshinterval>-1</refreshinterval>
+      <sitemappriority>0.5</sitemappriority>
+      <skinsrc>[G]Skins/Flat-CadetBlue/StandardMenu-Home.ascx</skinsrc>
+      <startdate>0001-01-01T00:00:00</startdate>
+      <name>Home</name>
+      <title />
+      <url type="Normal" />
+      <tabpermissions>
+        <permission>
+          <permissioncode>SYSTEM_TAB</permissioncode>
+          <permissionkey>VIEW</permissionkey>
+          <allowaccess>true</allowaccess>
+          <rolename>All Users</rolename>
+        </permission>
+        <permission>
+          <permissioncode>SYSTEM_TAB</permissioncode>
+          <permissionkey>VIEW</permissionkey>
+          <allowaccess>true</allowaccess>
+          <rolename>Administrators</rolename>
+        </permission>
+        <permission>
+          <permissioncode>SYSTEM_TAB</permissioncode>
+          <permissionkey>EDIT</permissionkey>
+          <allowaccess>true</allowaccess>
+          <rolename>Administrators</rolename>
+        </permission>
+      </tabpermissions>
+      <tabsettings>
+        <tabsetting>
+          <settingname>CacheDuration</settingname>
+          <settingvalue>
+          </settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>DoNotRedirect</settingname>
+          <settingvalue>False</settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>LinkNewWindow</settingname>
+          <settingvalue>False</settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>MaxVaryByCount</settingname>
+          <settingvalue>
+          </settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>CacheProvider</settingname>
+          <settingvalue>
+          </settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>IncludeVaryBy</settingname>
+          <settingvalue>
+          </settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>CustomStylesheet</settingname>
+          <settingvalue>
+          </settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>CacheIncludeExclude</settingname>
+          <settingvalue>
+          </settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>AllowIndex</settingname>
+          <settingvalue>True</settingvalue>
+        </tabsetting>
+        <tabsetting>
+          <settingname>ExcludeVaryBy</settingname>
+          <settingvalue>
+          </settingvalue>
+        </tabsetting>
+      </tabsettings>
+      <panes>
+        <pane>
+          <name>Gray2Grid4A</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8101</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>USER INTERFACE DESIGN</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>5c633cfa-fc5e-4f5f-87d9-2403966eb6bb</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_style&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_img&amp;quot;&amp;gt;
+&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/magnify_img1.png&amp;quot; /&amp;gt;
+&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_text&amp;quot;&amp;gt;
+&amp;lt;h4&amp;gt;USER INTERFACE DESIGN&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;Wireframing&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Prototyping&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Usability testing&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>Gray2Grid4B</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8102</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>CONCEPT AND IDEAS</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>ecd4d660-be86-42ff-a9cb-c28bab969867</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_style&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_img&amp;quot;&amp;gt;
+&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/magnify_img2.png&amp;quot; /&amp;gt;
+&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_text&amp;quot;&amp;gt;
+&amp;lt;h4&amp;gt;CONCEPT AND IDEAS&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;Conceptualization&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Digital Branding &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Product Strategy&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>Gray2Grid4C</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8103</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>DESIGN AND BRANDING</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>079e4426-c66b-4102-9941-e0b0bae27bd4</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_style&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_img&amp;quot;&amp;gt;
+&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/magnify_img3.png&amp;quot; /&amp;gt;
+&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;magnify_text&amp;quot;&amp;gt;
+&amp;lt;h4&amp;gt;DESIGN AND BRANDING&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;Interaction Design &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Graphic Design  &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Identity Design&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>TopGrid4A</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8104</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Page Builder</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>08dd3b2f-bd36-4e23-8288-e9a0bee09b68</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;main_top_icon1 main_top_text&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;hi-icon-wrap icon_effect icon_effects&amp;quot;&amp;gt;
+&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot; class=&amp;quot; hi-icon main_top_img1 &amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;h3&amp;gt; Page Builder&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum risus ornare odio consequat fermentum repeatedly over again .&amp;lt;/p&amp;gt;
+&amp;lt;span class=&amp;quot;top_read_more&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt; Read More &amp;amp;nbsp;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/more_arrow.png&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>TopGrid4B</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8105</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Responsive Deisgn</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>be053765-8215-4aad-804c-3d7812859a33</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;main_top_icon2 main_top_text&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;hi-icon-wrap icon_effect icon_effects&amp;quot;&amp;gt;
+&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot; class=&amp;quot; hi-icon main_top_img2 &amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;h3&amp;gt;Responsive Deisgn&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum risus ornare odio consequat fermentum repeatedly over again.&amp;lt;/p&amp;gt;
+&amp;lt;span class=&amp;quot;top_read_more&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt; Read More &amp;amp;nbsp;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/more_arrow.png&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>TopGrid4C</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8106</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Fully Retina</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>7c4710d0-0616-4ea5-b82c-ddf773b3ca62</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;main_top_icon3 main_top_text&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;hi-icon-wrap icon_effect icon_effects&amp;quot;&amp;gt;
+&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot; class=&amp;quot; hi-icon main_top_img3 &amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;h3&amp;gt;Fully Retina&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum risus ornare odio consequat fermentum repeatedly over again .&amp;lt;/p&amp;gt;
+&amp;lt;span class=&amp;quot;top_read_more&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt; Read More &amp;amp;nbsp;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/more_arrow.png&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>BannerPane</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8107</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc>[G]Containers/Flat-CadetBlue/NoTitle.ascx</containersrc>
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Text/HTML</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>e781be94-395d-46d7-81cf-d20afe6bae69</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div id=&amp;quot;layerslider-container&amp;quot;&amp;gt;
+  &amp;lt;div id=&amp;quot;layerslider&amp;quot; style=&amp;quot;width: 1600px; height: 530px; margin: 0px auto;&amp;quot;&amp;gt;
+
+
+     &amp;lt;div class=&amp;quot;ls-layer&amp;quot; style=&amp;quot;slidedelay: 7000; transition2d: 5;&amp;quot;&amp;gt;
+					&amp;lt;img src=&amp;quot;{{PortalRoot}}/ls_bg_01.jpg&amp;quot; class=&amp;quot;ls-bg&amp;quot; /&amp;gt;
+						&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner1_pc01.png&amp;quot; style=&amp;quot;top: 80px; left: 69%; slidedirection : right; slideoutdirection : right;  durationin :2000; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 0; delayout : 0; showuntil :0; &amp;quot; /&amp;gt;
+						&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner1_tablet1.png&amp;quot; style=&amp;quot;top: 210px; left: 57%; slidedirection : right; slideoutdirection : right;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 1500; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt;
+						&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner1_mobile01.png&amp;quot; style=&amp;quot;top: 280px; left: 52%; slidedirection : right; slideoutdirection : right;  durationin : 1000; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 3000; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt;				
+					
+					
+					&amp;lt;div class=&amp;quot;ls-s2 l1-s3 layer_position  &amp;quot; style=&amp;quot;width:450px; top:60px; left: 30%; slidedirection : top; slideoutdirection : top; durationin : 2000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint;delayin : 0; showuntil : 0; font-size:27px; color:#fff; text-shadow:2px 0 rgba(0,0,0,0.5); font-family:&amp;#39;Titillium Web&amp;#39;,Arial, sans-serif;&amp;quot;&amp;gt;
+						&amp;lt;h3 class=&amp;quot;banner_title&amp;quot;&amp;gt;Web Designers And Developers&amp;lt;/h3&amp;gt;
+					&amp;lt;/div&amp;gt;
+					&amp;lt;div class=&amp;quot;ls-s2 l1-s3 layer_position display_none&amp;quot; style=&amp;quot; width:450px; top:170px; left: 30%; slidedirection : left; slideoutdirection : left; durationin : 1500; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 1500; showuntil : 0; font-size:12px; color:#fff; font-size:17px; color:#333;&amp;quot;&amp;gt;
+						&amp;lt;p style=&amp;quot;line-height:1.5em;&amp;quot; &amp;gt;Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupida.&amp;lt;/p&amp;gt;
+					&amp;lt;/div&amp;gt;
+					&amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position display_none&amp;quot; style=&amp;quot; width:450px; top:350px; left: 30%; slidedirection : left; slideoutdirection : left; durationin : 1000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 3000; showuntil : 0; font-size:15px;color:#fff; text-shadow:1px 0 rgba(0,0,0,0.5);&amp;quot;&amp;gt;
+						&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;banner_button&amp;quot;&amp;gt;LEARN MORE&amp;lt;/a&amp;gt;
+					&amp;lt;/div&amp;gt;
+				&amp;lt;/div&amp;gt;
+				
+				
+    &amp;lt;div class=&amp;quot;ls-layer &amp;quot; style=&amp;quot;slidedelay: 7000; transition2d: 5;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;{{PortalRoot}}/ls_bg_02.jpg&amp;quot; class=&amp;quot;ls-bg&amp;quot; /&amp;gt; &amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner2_mobile1.png&amp;quot; style=&amp;quot;top: 80px; left: 63%; slidedirection : right; slideoutdirection : right;  durationin :2000; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 0; delayout : 0; showuntil :0; &amp;quot; /&amp;gt; &amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner2_mobile2.png&amp;quot; style=&amp;quot;top: 180px; left: 75%; slidedirection : right; slideoutdirection : right;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 1500; delayout : 0; showuntil : 0;  &amp;quot; /&amp;gt;
+	  &amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position &amp;quot; style=&amp;quot;width:450px; top:70px; left: 30%; color:#fff;slidedirection : top; slideoutdirection : top; durationin : 1000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 0; showuntil : 0;margin:10px 0;  height:30px; line-height:30px; font-size:16px; color:#151515; font-size:20px;font-weight:normal; background:none;font-family:&amp;#39;Titillium Web&amp;#39;,Arial, sans-serif;&amp;quot;&amp;gt;
+        &amp;lt;h3 class=&amp;quot;banner_title&amp;quot;&amp;gt;FLAT DESIGN &amp;amp; RETINA READY
+&amp;lt;/h3&amp;gt;
+      &amp;lt;/div&amp;gt;
+	  &amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position &amp;quot; style=&amp;quot;width:450px; top:200px; left: 30%; slidedirection : bottom; slideoutdirection : top; durationin : 1000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 0; showuntil : 0;font-size:16px; color:#fff;&amp;quot;&amp;gt;
+	        &amp;lt;span class=&amp;quot;desigh_style display_none&amp;quot;&amp;gt;RESPONSIVE CLEAN DESIGN&amp;lt;/span&amp;gt;
+	  &amp;lt;/div&amp;gt;
+	  	  &amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position &amp;quot; style=&amp;quot;width:450px; top:250px; left: 30%; slidedirection : bottom; slideoutdirection : top; durationin : 1000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 1000; showuntil : 0;color:#fff;  font-size:16px;&amp;quot;&amp;gt;
+       &amp;lt;span class=&amp;quot;features_style display_none&amp;quot; &amp;gt;MUCH MORE FEATURES&amp;lt;/span&amp;gt;
+	  &amp;lt;/div&amp;gt;
+	  	  	  &amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position &amp;quot; style=&amp;quot;width:450px; top:300px; left: 30%; slidedirection : bottom; slideoutdirection : bottom; durationin : 1000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 2000; showuntil : 0;color:#fff; font-size:16px;&amp;quot;&amp;gt;
+        &amp;lt;span class=&amp;quot;effects_style display_none&amp;quot; &amp;gt;UNLIMITED POSSIBILITIES&amp;lt;/span&amp;gt;
+	  &amp;lt;/div&amp;gt;
+	  	  	  &amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position &amp;quot; style=&amp;quot;width:450px; top:350px; left: 30%; slidedirection : bottom; slideoutdirection : bottom; durationin : 1000; durationout : 1000; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 3000; showuntil :0;color:#fff;font-size:16px;&amp;quot;&amp;gt;
+       &amp;lt;span class=&amp;quot;hand_style display_none&amp;quot; &amp;gt;DRAG ELEMENT WITH ANIMATION&amp;lt;/span&amp;gt;
+	  &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+
+    &amp;lt;div class=&amp;quot;ls-layer&amp;quot; style=&amp;quot;slidedelay:7000; transition2d: 5;&amp;quot;&amp;gt; 
+	&amp;lt;img src=&amp;quot;{{PortalRoot}}/ls_bg_03.jpg&amp;quot; class=&amp;quot;ls-bg&amp;quot; style=&amp;quot;background-color:#000;&amp;quot; /&amp;gt; 
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner3_pc1.png&amp;quot; style=&amp;quot;top:80px; left:59%; slidedirection : right; slideoutdirection : right;  durationin :2000; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 0; delayout : 0; showuntil :0;  &amp;quot; /&amp;gt; 
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner3_tablet1.png&amp;quot; style=&amp;quot;top: 270px; left: 74%; slidedirection : right; slideoutdirection : right;  durationin : 2000; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin :1500; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt; 
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/banner3_pc2.png&amp;quot; style=&amp;quot;top: 390px; left: 59%; slidedirection : bottom; slideoutdirection : bottom;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 3000; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt;
+	
+      &amp;lt;div class=&amp;quot;ls-s2 l1-s3 layer_position &amp;quot; style=&amp;quot;width:450px; top:60px; left: 30%;  slidedirection : left; slideoutdirection : left; durationin : 2000; durationout : 1500; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 0; showuntil : 0; font-size:27px; color:#fff; text-shadow:2px 0 rgba(0,0,0,0.5);&amp;quot;&amp;gt; &amp;lt;h3 class=&amp;quot;banner_title&amp;quot;&amp;gt;FULL RESPONSIVE&amp;lt;/h3&amp;gt;
+      &amp;lt;/div&amp;gt;
+      &amp;lt;div class=&amp;quot;ls-s2 l1-s3 layer_position display_none&amp;quot; style=&amp;quot; width:450px; top:170px; left: 30%; slidedirection : left; slideoutdirection :left; durationin : 2000; durationout : 1500; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 1500; showuntil :0;  color:#fff;  font-size:17px;&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;line-height:1.5em;&amp;quot;&amp;gt; Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry’s standard.demus et olae of the printing and typesetting industry set.Lorem Ipsum is simply dummy text of the printing.&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;
+      &amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position display_none&amp;quot; style=&amp;quot; width:450px; top:340px; left: 30%; slidedirection : bottom; slideoutdirection : bottom; durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 3000; showuntil : 0; font-size:17px; color:#fff; text-shadow:1px 0 rgba(0,0,0,0.5);&amp;quot;&amp;gt; &amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;banner_button&amp;quot;&amp;gt;LEARN MORE&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+
+
+    &amp;lt;div class=&amp;quot;ls-layer&amp;quot; style=&amp;quot;slidedelay: 6000; transition2d: 5;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;{{PortalRoot}}/ls_bg_04.jpg&amp;quot; class=&amp;quot;ls-bg&amp;quot; /&amp;gt; 
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/ls_skin_01.png&amp;quot; style=&amp;quot;top:150px; left: 26%; slidedirection : left; slideoutdirection : left;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 2000; delayout : 0; showuntil : 0;  &amp;quot; /&amp;gt;
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/ls_skin_05.png&amp;quot; style=&amp;quot;top:150px; left: 74%; slidedirection : right; slideoutdirection : right;  durationin :1500 ; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 2000; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt;
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/ls_skin_02.png&amp;quot; style=&amp;quot;top:130px; left: 37%;slidedirection : left; slideoutdirection : left;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 1000; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt;
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/ls_skin_04.png&amp;quot; style=&amp;quot;top:130px; left: 63%;slidedirection : right; slideoutdirection : right;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 1000; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt;
+	&amp;lt;img class=&amp;quot;ls-s2 layer_position&amp;quot; src=&amp;quot;{{PortalRoot}}/ls_skin_03.png&amp;quot; style=&amp;quot;top: 110px; left: 50%; slidedirection : top; slideoutdirection : top;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInBack; delayin : 0; delayout : 0; showuntil : 0; &amp;quot; /&amp;gt;
+      &amp;lt;div  class=&amp;quot;ls-s2 l1-s3 layer_position&amp;quot; style=&amp;quot; top:30px; left: 50%; slidedirection : top; slideoutdirection : top; durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 1000; showuntil : 0;color:#fff;font-size:22px;font-family:&amp;#39;Titillium Web&amp;#39;,Arial, sans-serifff; &amp;quot;&amp;gt;
+      &amp;lt;h3 class=&amp;quot;banner_title&amp;quot;&amp;gt; CUSTOMIZE IT YOUR WAY&amp;lt;/h3&amp;gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>BottomGrid12</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8108</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Vertical Tab</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>e3f5eb0c-631c-4fa9-bb6d-df9929ceb52f</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;pe-spacer size50&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab_whole&amp;quot;&amp;gt;
+&amp;lt;ul class=&amp;quot;nav nav-tabs nav-tabs2&amp;quot; id=&amp;quot;myTab&amp;quot;&amp;gt;
+    &amp;lt;li class=&amp;quot;active&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#tab1&amp;quot; data-toggle=&amp;quot;tab&amp;quot;&amp;gt;
+    &amp;lt;p class=&amp;quot;Icon_one&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Dotnetnuke Skins&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#tab2&amp;quot; data-toggle=&amp;quot;tab&amp;quot;&amp;gt;
+    &amp;lt;p class=&amp;quot;Icon_two&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Collect Ideas&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#tab3&amp;quot; data-toggle=&amp;quot;tab&amp;quot;&amp;gt;
+    &amp;lt;p class=&amp;quot;Icon_three&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Flat Design&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#tab4&amp;quot; data-toggle=&amp;quot;tab&amp;quot;&amp;gt;
+    &amp;lt;p class=&amp;quot;Icon_four&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Grid Layout&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#tab5&amp;quot; data-toggle=&amp;quot;tab&amp;quot;&amp;gt;
+    &amp;lt;p class=&amp;quot;Icon_five&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Who We Are&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#tab6&amp;quot; data-toggle=&amp;quot;tab&amp;quot;&amp;gt;
+    &amp;lt;p class=&amp;quot;Icon_six&amp;quot;&amp;gt;&amp;lt;span&amp;gt;What We Do&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;div class=&amp;quot;tab-content tab-content2&amp;quot; id=&amp;quot;myTabContent&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab-pane fade in active&amp;quot; id=&amp;quot;tab1&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row-fluid&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_text span6&amp;quot;&amp;gt;
+&amp;lt;h3&amp;gt;Responsive Design &amp;amp;amp; Retina Ready&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Ready for small, medium and pixel perfection screens!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&amp;amp;rsquo;s standard.demus et olae of the printing and typesetting .&amp;lt;/p&amp;gt;
+&amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_img shake span6&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/tab_right_img1.jpg&amp;quot; /&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;tab2&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row-fluid&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_text span6&amp;quot;&amp;gt;
+&amp;lt;h3&amp;gt;Collect Ideas&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Take our predefined layouts and set them easy and faster!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&amp;amp;rsquo;s standard.demus et olae of the printing and typesetting .&amp;lt;/p&amp;gt;
+&amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_img shake span6&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/tab_right_img2.png&amp;quot; /&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;tab3&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row-fluid&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_text span6&amp;quot;&amp;gt;
+&amp;lt;h3&amp;gt;Flat Design&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&amp;amp;rsquo;s standard.demus et olae of the printing and typesetting .&amp;lt;/p&amp;gt;
+&amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_img shake span6&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/tab_right_img3.png&amp;quot; /&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;tab4&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row-fluid&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_text span6&amp;quot;&amp;gt;
+&amp;lt;h3&amp;gt;Grid Layout&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;need to really build something exceptional.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&amp;amp;rsquo;s standard.demus et olae of the printing and typesetting .&amp;lt;/p&amp;gt;
+&amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_img shake span6&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/tab_right_img4.png&amp;quot; /&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;tab5&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row-fluid&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_text span6&amp;quot;&amp;gt;
+&amp;lt;h3&amp;gt;Who We Are&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Welcome to Bestdnnskins.com,Lorem ipsum dolor sit amet consecte&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&amp;amp;rsquo;s standard.demus et olae of the printing and typesetting .&amp;lt;/p&amp;gt;
+&amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_img shake span6&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/tab_right_img5.jpg&amp;quot; /&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;tab6&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row-fluid&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_text span6&amp;quot;&amp;gt;
+&amp;lt;h3&amp;gt;Collect Ideas&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Take our predefined layouts and set them easy and faster!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac massa lorem. Integer quis posuere nibh. Suspendisse aliquam fringilla risus vel feugiat. Donec felis lectus.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Aliquam id neque vestibulum, scelerisque mi sit amet, volutpat velit. Proin in nulla tortor. Quisque ultricies quam a imperdiet iaculis. Etiam ullamcorper imperdiet fermentum.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  industry&amp;amp;rsquo;s standard.demus et olae of the printing and typesetting .&amp;lt;/p&amp;gt;
+&amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;tab_left_img shake span6&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/tab_right_img6.jpg&amp;quot; /&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;clear&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size50&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>ColorGrid12</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8109</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Skin bottom</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>2b8bf750-8bb0-423b-870a-eea007b9abf3</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;row-fluid&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;demo_bottom_style clearafter&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;demo_bottom_left span9&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Our vision is simple. We want create websites and applications with both high quality design and easy-to-access content. The finished product will be totally unique and represent awesomeness.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;demo_bottom_right span3&amp;quot;&amp;gt; &amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;http://store.dnnsoftware.com/vendor-profile/bestdnnskinscom/r/1fba77e1425f4249b17f&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;PURCHASE SKIN&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>FooterGrid3A</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8110</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc>[G]Containers/Flat-CadetBlue/Footer01.ascx</containersrc>
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>About Us</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>106c04fa-5523-4018-8e00-a009d52fbf9f</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size20&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;footer_icon&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Lorem ipsum ex vix illud nonummy, novum tation et his. At vix scriptaset patrioque scribenturat pro fugit erts verterem molestiae, sed et vivendo ali illu. &amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size10&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;span class=&amp;quot;glyphicon glyphicon-map-marker&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;100 Mainstreet Blvd. Miami&amp;lt;br /&amp;gt;
+&amp;lt;span class=&amp;quot;glyphicon glyphicon-phone&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;(305) 555-4446&amp;lt;br /&amp;gt;
+&amp;lt;span class=&amp;quot;glyphicon glyphicon-envelope&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;@bestdnnskins.com&amp;lt;br /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>FooterGrid3B</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8111</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc>[G]Containers/Flat-CadetBlue/Footer01.ascx</containersrc>
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Recent Posts</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>7be582fe-aee5-4fa3-b8a0-4b71a1c07bac</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size20&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;footer_post&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/recent_img.png&amp;quot; /&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;This is a Standard Post&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;span class=&amp;quot;post_date&amp;quot;&amp;gt;Sep 10, 2013&amp;lt;/span&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size20&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/recent_img.png&amp;quot; /&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Post with Featured Image&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;span class=&amp;quot;post_date&amp;quot;&amp;gt;Sep 5, 2013&amp;lt;/span&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size20&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/recent_img.png&amp;quot; /&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Beautiful Gallery Post&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;span class=&amp;quot;post_date&amp;quot;&amp;gt;Sep 2, 2013&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>FooterGrid3C</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8112</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc>[G]Containers/Flat-CadetBlue/Footer01.ascx</containersrc>
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Tag Clouds</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>271e8856-8920-441a-ac5a-9c1418dd4ca4</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size20&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;footer_tag&amp;quot;&amp;gt;
+&amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Dotnetnuke&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Retina&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;DNN Skins&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Responsive&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Clean&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Downloads&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;1140 Grid&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;HTML5&amp;amp;amp; CSS 3&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Popular Web&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;span&amp;gt;Colors&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>FooterGrid3D</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8113</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc>[G]Containers/Flat-CadetBlue/Footer01.ascx</containersrc>
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>News Letter</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>f54d75de-77c6-4fc3-be14-d1053ca2d83d</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size20&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;newsletter_style&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Don&amp;#39;t worry, your details are safe with us.
+For more info, read our privacy policy.&amp;lt;/p&amp;gt;
+&amp;lt;input type=&amp;quot;text&amp;quot; /&amp;gt;
+&amp;lt;div class=&amp;quot;sign_style&amp;quot;&amp;gt;&amp;lt;span&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot;&amp;gt;SIGN UP&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>GrayGrid12</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8114</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>ResponsiveDesign</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>41769e75-bda5-423a-96b3-9737cf2279a8</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;design_text_style&amp;quot;&amp;gt;
+&amp;lt;h3&amp;gt;&amp;lt;span class=&amp;quot;responsive_style&amp;quot;&amp;gt;Responsive&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;design_style&amp;quot;&amp;gt;Design&amp;lt;/span&amp;gt;&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;Welcome to our website. Here, you can know more about our services. We are the best expert on DNN skins because we concentrate on the study and design of DNN skins over Eight years. One of the most flexible responsive web design you will ever work with!&amp;amp;nbsp; &amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;row-fluid  clearafter&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;design_button1 span6&amp;quot;&amp;gt; &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;BUY THIS THEME&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;design_button2 span6&amp;quot;&amp;gt; &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;MEET FEATURES&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>socialpane</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8115</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Text/HTML</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>da5d5733-aea8-43a1-9df6-69707a7e2068</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;Social-Links clearafter&amp;quot;&amp;gt;
+&amp;lt;a rel=&amp;quot;tooltip&amp;quot; class=&amp;quot;iconFacebook&amp;quot; title=&amp;quot;Facebook&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;a rel=&amp;quot;tooltip&amp;quot; class=&amp;quot;iconPinterest&amp;quot; title=&amp;quot;Pinterest&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;a rel=&amp;quot;tooltip&amp;quot; class=&amp;quot;iconTwitter&amp;quot; title=&amp;quot;Twitter&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;a rel=&amp;quot;tooltip&amp;quot; class=&amp;quot;iconGitHub&amp;quot; title=&amp;quot;GitHub&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;a rel=&amp;quot;tooltip&amp;quot; class=&amp;quot;iconVimeo&amp;quot; title=&amp;quot;Vimeo&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;a rel=&amp;quot;tooltip&amp;quot; class=&amp;quot;iconRss&amp;quot; title=&amp;quot;Rss&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+        <pane>
+          <name>MiddleGrid12</name>
+          <modules>
+            <module>
+              <contentKey />
+              <moduleID>8116</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod />
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Text/HTML</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>f1733216-0f87-4e4f-9085-074c7d49c7d5</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;pe-spacer size20&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings />
+              <tabmodulesettings />
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+            <module>
+              <contentKey />
+              <moduleID>8117</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc>[G]Containers/Flat-CadetBlue/Container01.ascx</containersrc>
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Recent Projects</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>cd202c1a-d69f-4510-a64f-dad4996879fc</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;carouFredSel&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;pe-spacer size10&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;ul id=&amp;quot;carouFredSel&amp;quot;&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_img&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/carou-img1.jpg&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_describe&amp;quot;&amp;gt;
+    &amp;lt;h3&amp;gt;FLAT DESIGN&amp;lt;/h3&amp;gt;
+    &amp;lt;p&amp;gt;GAME DESIGN, APP DESIGN&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_img&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/carou-img2.jpg&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_describe&amp;quot;&amp;gt;
+    &amp;lt;h3&amp;gt;FLAT DESIGN&amp;lt;/h3&amp;gt;
+    &amp;lt;p&amp;gt;GAME DESIGN, APP DESIGN&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_img&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/carou-img3.jpg&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_describe&amp;quot;&amp;gt;
+    &amp;lt;h3&amp;gt;FLAT DESIGN&amp;lt;/h3&amp;gt;
+    &amp;lt;p&amp;gt;GAME DESIGN, APP DESIGN&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_img&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/carou-img4.jpg&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_describe&amp;quot;&amp;gt;
+    &amp;lt;h3&amp;gt;FLAT DESIGN&amp;lt;/h3&amp;gt;
+    &amp;lt;p&amp;gt;GAME DESIGN, APP DESIGN&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_img&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;{{PortalRoot}}/carou-img5.jpg&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;
+    &amp;lt;div class=&amp;quot;carouFredSel_describe&amp;quot;&amp;gt;
+    &amp;lt;h3&amp;gt;FLAT DESIGN&amp;lt;/h3&amp;gt;
+    &amp;lt;p&amp;gt;GAME DESIGN, APP DESIGN&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;div class=&amp;quot;carouFredSel_nav&amp;quot;&amp;gt; &amp;lt;a id=&amp;quot;caroul_prev&amp;quot; class=&amp;quot;caroul_prev&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a id=&amp;quot;caroul_next&amp;quot; class=&amp;quot;caroul_next&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+            <module>
+              <contentKey />
+              <moduleID>8118</moduleID>
+              <alignment />
+              <alltabs>false</alltabs>
+              <border />
+              <cachemethod>FileModuleCachingProvider</cachemethod>
+              <cachetime>1200</cachetime>
+              <color />
+              <containersrc />
+              <displayprint>false</displayprint>
+              <displaysyndicate>false</displaysyndicate>
+              <displaytitle>true</displaytitle>
+              <enddate>0001-01-01T00:00:00</enddate>
+              <footer />
+              <header />
+              <iconfile />
+              <inheritviewpermissions>true</inheritviewpermissions>
+              <iswebslice>false</iswebslice>
+              <modulepermissions>
+                <permission>
+                  <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+                  <permissionkey>EDIT</permissionkey>
+                  <allowaccess>true</allowaccess>
+                  <rolename>Administrators</rolename>
+                </permission>
+              </modulepermissions>
+              <title>Recent Projects Text</title>
+              <startdate>0001-01-01T00:00:00</startdate>
+              <uniqueId>711244dd-dc0c-4f77-b83d-87c029da7898</uniqueId>
+              <visibility>Maximized</visibility>
+              <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+              <webslicettl>0</webslicettl>
+              <cultureCode />
+              <content type="DNNHTML" version="07.01.00"><![CDATA[&lt;htmltext&gt;&lt;content&gt;&lt;![CDATA[&amp;lt;div class=&amp;quot;inview p-hidden&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;carouFredSel_text&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Etiam fringilla condimentum enim, eget pretium erat scelerisque vitae. Integer id luctus turpis, convallis semper ipsum. In fermentum lacus eu justo interdum, dignissim feugiat quam aliquam. Quisque a fermentum diam. Mauris eros libero, consectetur sed tempus eu, vehicula eget sem.&amp;amp;nbsp; &amp;lt;a target=&amp;quot;_blank&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;Read More&amp;amp;gt;&amp;amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;]]&gt;&lt;/content&gt;&lt;/htmltext&gt;]]></content>
+              <modulesettings>
+                <modulesetting>
+                  <settingname>HtmlText_ReplaceTokens</settingname>
+                  <settingvalue>False</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_UseDecorate</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>HtmlText_SearchDescLength</settingname>
+                  <settingvalue>100</settingvalue>
+                </modulesetting>
+                <modulesetting>
+                  <settingname>WorkflowID</settingname>
+                  <settingvalue>1</settingvalue>
+                </modulesetting>
+              </modulesettings>
+              <tabmodulesettings>
+                <tabmodulesetting>
+                  <settingname>AllowIndex</settingname>
+                  <settingvalue>True</settingvalue>
+                </tabmodulesetting>
+                <tabmodulesetting>
+                  <settingname>hideadminborder</settingname>
+                  <settingvalue>False</settingvalue>
+                </tabmodulesetting>
+              </tabmodulesettings>
+              <definition>DNN_HTML</definition>
+              <moduledefinition>Text/HTML</moduledefinition>
+            </module>
+          </modules>
+        </pane>
+      </panes>
+    </tab>
+  </tabs>
+</portal>

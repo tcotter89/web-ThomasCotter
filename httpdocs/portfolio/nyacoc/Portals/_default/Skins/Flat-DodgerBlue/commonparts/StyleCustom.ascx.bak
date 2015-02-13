@@ -1,0 +1,35 @@
+<div id="custom_wrapper">
+    <div class="custom_inner">
+        Background Color:<br />
+        <div id="bg_color" style="background: #4B85BD; margin-top: 5px;">
+            &nbsp;</div>
+        <input type="hidden" id="pp_bg_color" name="pp_bg_color" value="#4B85BD" />
+		<div class="optional_width clearafter">
+          <div class="boxed_style"><a id="boxed_button" href="#">Boxed</a></div>
+		  <div class="stretched_style"><a id="stretched_button" href="#">Stretched</a></div>
+        </div>
+		<div id="bg_pattern" class="clearafter">
+		  Background Pattern:<br /> 
+		  <a data-pattern="bg_grid_01" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_02" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_03" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_04" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_05" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_06" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_07" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_08" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_09" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_10" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_11" class="pattern-box" href=""></a> 
+		  <a data-pattern="bg_grid_12" class="pattern-box" href=""></a>
+		  <a data-pattern="bg_grid_13" class="pattern-box" href=""></a>
+		  <a data-pattern="bg_grid_14" class="pattern-box" href=""></a>
+		  <a data-pattern="bg_grid_15" class="pattern-box" href=""></a>
+		  <a data-pattern="bg_grid_16" class="pattern-box" href=""></a>
+		</div>
+		<div><a id="custom-reset" href="#">Reset</a></div>
+    </div>
+</div>
+<div id="custom-button">
+    <img src="<%=TemplateSourceDirectory %>/images/custom-button.png" alt="" />
+</div>

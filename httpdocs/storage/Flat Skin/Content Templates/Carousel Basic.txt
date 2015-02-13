@@ -1,0 +1,13 @@
+<div class="carouFredSel">
+  <ul id="carouFredSel">
+    <li><img alt="" src="...jpg" /></li>
+    <li><img alt="" src="...jpg" /></li>
+    <li><img alt="" src="...jpg" /></li>
+    <li><img alt="" src="...jpg" /></li>
+    <li><img alt="" src="...jpg" /></li>
+  </ul>
+  <div class="carouFredSel_nav">
+    <a id="caroul_prev" class="caroul_prev" href="#"></a>
+    <a id="caroul_next" class="caroul_next" href="#"></a>
+  </div>
+</div>
